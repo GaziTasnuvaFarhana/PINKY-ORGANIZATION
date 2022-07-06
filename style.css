@@ -2,6 +2,9 @@ body{
     font-family: 'Nanum Myeongjo', serif;
     font-family: 'Oswald', sans-serif;
 }
+
+
+
 h1{
     font-size: 50px;
 }
@@ -10,11 +13,46 @@ h1{
 .second-div{
     text-align: center;
 }
+
+
+
+
 .first-div{
     text-align: center ;
 }
+
+
+
+
+
 .first-section{
     background-image: url(images/background2.jpg);
     background-size: 500px 300px 200px 100px;
     background-repeat: no-repeat;
 }
+
+
+.third-div{
+    text-align: center;
+}
+
+
+
+.section-four{
+    display: flex;
+}
+
+
+
+.div-four{
+    width: 33%;
+}
+
+
+
+
+.section-five{
+    display: flex;
+}
+
+
