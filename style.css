@@ -14,11 +14,13 @@ p{
 
 h1{
     font-size: 50px;
+    color: darkgreen;
 }
 
 
 h2{
     font-size: 40px;
+    color: darkslategray;
 }
 
 
@@ -60,6 +62,14 @@ h3{
 }
 
 
+
+.section-two{
+    margin: 100px;
+}
+
+
+
+
 .third-div{
     text-align: center;
 }
@@ -68,6 +78,7 @@ h3{
 
 .section-four{
     display: flex;
+    margin: 100px;
 }
 
 
@@ -90,6 +101,19 @@ h3{
 .section-five{
     display: flex;
 }
+
+
+
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(green, olive);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+
 
 
 
